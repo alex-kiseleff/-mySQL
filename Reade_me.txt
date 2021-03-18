@@ -7,3 +7,5 @@ login / password
 3. ivan789 / 789
 
 4. admin / admin
+
+Работа со связанными таблицами
